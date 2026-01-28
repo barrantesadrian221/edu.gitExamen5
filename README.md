@@ -1,1 +1,1 @@
-"# edu.gitExamen5" 
+ Archivo corregido siglas.
